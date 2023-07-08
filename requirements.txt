@@ -1,0 +1,7 @@
+langchain==0.0.201
+faiss-cpu==1.7.4
+openai==0.27.8
+gradio==3.36.1
+replicate==0.8.4
+azure-cognitiveservices-speech==1.28.0
+google-cloud-texttospeech
